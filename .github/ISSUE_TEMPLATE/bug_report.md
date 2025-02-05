@@ -25,8 +25,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
- - Client [e.g. Modrinth App, At Launcher, Minecraft Launcher]
- - Version [e.g. 1.0.0]
+ - Client: [e.g. Modrinth App, At Launcher, Minecraft Launcher]
+ - Version: [e.g. 1.0.0]
+ - Hardware: [CPU, GPU, RAM, ...]
 
 **Additional context**
 Add any other context about the problem here.
